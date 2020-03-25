@@ -1,6 +1,6 @@
-# i_am_rich
+# I Am Rich - Flutter App
 
-A new Flutter project.
+Project created for studying purpose.
 
 ## Getting Started
 
